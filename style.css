@@ -1,0 +1,17 @@
+
+.grp1{ 
+    background-color: darkseagreen;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  
+}
+a{
+    text-decoration: none;
+}
+span{
+    background-color: darkslateblue;
+}
+*{
+    background-image: url('VARKALA.jpg');
+    background-size: cover;
+}
